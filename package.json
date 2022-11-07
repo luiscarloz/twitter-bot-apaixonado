@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "twitter-api-v2": "^1.12.9"
+  },
+  "devDependencies": {
+    "serverless": "^3.23.0"
+  },
+  "scripts": {
+    "deploy": "serverless deploy",
+    "console": "serverless --console",
+    "start": "serverless offline"
+  }
+}
